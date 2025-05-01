@@ -1,4 +1,4 @@
 topics:
-  - name: jenkin01
-    partitions: 10
+  - name: jenkin02
+    partitions: 5
     replicationFactor: 3
